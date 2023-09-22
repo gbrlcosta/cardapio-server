@@ -4,146 +4,146 @@
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Brahma Chopp 269ml",
-    "preço": "R$ 2,90"
+    "preco": "R$ 2.90"
   },
   {
     "id": "2",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Antartica 269ml",
-    "preço": "R$ 2,90"
+    "preco": "R$ 2.90"
   },
   {
     "id": "4",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Skol 269ml",
-    "preço": "R$ 2,90"
+    "preco": "R$ 2.90"
   },
   {
     "id": "5",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Brahma Chopp 350ml",
-    "preço": "R$ 3,50"
+    "preco": "R$ 3.50"
   },
   {
     "id": "6",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Antartica 350ml",
-    "preço": "R$ 3,50"
+    "preco": "R$ 3.50"
   },
   {
     "id": "7",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Skol 350ml",
-    "preço": "R$ 3,50"
+    "preco": "R$ 3.50"
   },
   {
     "id": "8",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Amstel 350ml",
-    "preço": "R$ 3,50"
+    "preco": "R$ 3.50"
   },
   {
     "id": "9",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Brahma Duplo Malte 350ml",
-    "preço": "R$ 4,00"
+    "preco": "R$ 4.00"
   },
   {
     "id": "10",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Boemia Puro Malte 350ml",
-    "preço": "R$ 4,00"
+    "preco": "R$ 4.00"
   },
   {
     "id": "11",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Eisenbahn 350ml",
-    "preço": "R$ 4,50"
+    "preco": "R$ 4.50"
   },
   {
     "id": "12",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Heineken 350ml",
-    "preço": "R$ 5,50"
+    "preco": "R$ 5.50"
   },
   {
     "id": "13",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Budweiser 330ml",
-    "preço": "R$ 6,00"
+    "preco": "R$ 6.00"
   },
   {
     "id": "14",
     "tipo": "bebida",
     "subtipo": "cerveja",
     "nome": "Heineken 330ml",
-    "preço": "R$ 7,50"
+    "preco": "R$ 7.50"
   },
   {
     "id": "15",
     "tipo": "bebida",
     "subtipo": "agua",
     "nome": "Água Mineral Sem Gás 500ml",
-    "preço": "R$ 2,00"
+    "preco": "R$ 2.00"
   },
   {
     "id": "16",
     "tipo": "bebida",
     "subtipo": "agua",
     "nome": "Água Mineral Com Gás 500ml",
-    "preço": "R$ 2,50"
+    "preco": "R$ 2.50"
   },
   {
     "id": "17",
     "tipo": "bebida",
     "subtipo": "refrigerante",
     "nome": "Coca-cola 350ml",
-    "preço": "R$ 5,00"
+    "preco": "R$ 5.00"
   },
   {
     "id": "18",
     "tipo": "bebida",
     "subtipo": "refrigerante",
     "nome": "Guarana Antartica 350ml",
-    "preço": "R$ 5,00"
+    "preco": "R$ 5.00"
   },
   {
     "id": "19",
     "tipo": "bebida",
     "subtipo": "energetico",
     "nome": "Red Bull 355ml",
-    "preço": "R$ 7,50"
+    "preco": "R$ 7.50"
   },
   {
     "id": "20",
     "tipo": "bebida",
     "subtipo": "whisky",
     "nome": "Red Label dose",
-    "preço": "R$ 10,00"
+    "preco": "R$ 10.00"
   },
   {
     "id": "21",
     "tipo": "bebida",
     "subtipo": "whisky",
     "nome": "Chivas 18 anos dose",
-    "preço": "R$ 30,00"
+    "preco": "R$ 30.00"
   },
   {
     "id": "22",
     "tipo": "bebida",
     "subtipo": "whisky",
     "nome": "Royal Salute 21 anos dose",
-    "preço": "R$ 100,00"
+    "preco": "R$ 100.00"
   }
 ]
